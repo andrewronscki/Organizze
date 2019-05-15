@@ -1,4 +1,4 @@
-package andrewronscki.example.organizze;
+package andrewronscki.example.organizze.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,7 @@ import android.view.View;
 import com.heinrichreimersoftware.materialintro.app.IntroActivity;
 import com.heinrichreimersoftware.materialintro.slide.FragmentSlide;
 
+import andrewronscki.example.organizze.R;
 import andrewronscki.example.organizze.activity.CadastroActivity;
 import andrewronscki.example.organizze.activity.LoginActivity;
 
